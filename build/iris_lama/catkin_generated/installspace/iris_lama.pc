@@ -1,0 +1,8 @@
+prefix=/home/lclem0/RM/rm_cleaner_ws/install
+
+Name: iris_lama
+Description: Description of iris_lama
+Version: 1.2.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -liris_lama
+Requires: 

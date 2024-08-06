@@ -1,0 +1,8 @@
+prefix=/home/lclem0/RM/rm_cleaner_ws/install
+
+Name: rm_mir_cleaner
+Description: Description of rm_mir_cleaner
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

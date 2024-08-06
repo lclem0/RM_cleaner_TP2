@@ -1,0 +1,1 @@
+/home/lclem0/RM/rm_cleaner_ws/devel/.private/path_coverage/lib/python3/dist-packages/path_coverage/__init__.py

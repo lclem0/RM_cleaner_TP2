@@ -1,0 +1,1 @@
+/home/lclem0/RM/rm_cleaner_ws/devel/.private/path_coverage/share/roseus/ros/path_coverage/manifest.l

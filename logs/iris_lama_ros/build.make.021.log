@@ -1,0 +1,4 @@
+[ 30%] Built target slam2d_ros
+[ 60%] Built target pf_slam2d_ros
+[ 80%] Built target ros2sdm
+[100%] Built target loc2d_ros
